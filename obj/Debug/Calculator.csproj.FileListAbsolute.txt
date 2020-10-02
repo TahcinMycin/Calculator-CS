@@ -1,0 +1,13 @@
+E:\Mycin\C#\Projects\Calculator\bin\Debug\Calculator.exe.config
+E:\Mycin\C#\Projects\Calculator\bin\Debug\Calculator.exe
+E:\Mycin\C#\Projects\Calculator\bin\Debug\Calculator.pdb
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.exe
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.pdb
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.About2.resources
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.help.resources
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.details.resources
+E:\Mycin\C#\Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
